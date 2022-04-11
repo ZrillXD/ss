@@ -649,10 +649,9 @@ const menu = `▬▭▬▭▬▭▬▭▬▭▬▭
 ➵ Melanggar peraturan di atas dapat mendapatkan sanksi seperti banned/block user
 ▬▭▬▭▬▭▬▭▬▭▬▭
 => [ *THX TO* ]
-➵ *RetoGanzz*
-➵ *LORD RYNZ*
+➵ *zrilllXD/ME*
+➵ *BAILEYS*
 ➵ *ADIWAJSHING*
-➵ *MEGAWATI*
 ▬▭▬▭▬▭▬▭▬▭▬▭`
 const template = generateWAMessageFromContent(from, proto.Message.fromObject({
 templateMessage: {
